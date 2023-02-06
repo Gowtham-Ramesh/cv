@@ -1,0 +1,16 @@
+body {
+    background-color: #ECF9FF;
+}
+
+hr{
+    border-color: #ECF9FF;
+    border-style: dashed none none;
+    border-width: 3px;
+    height: 0px;
+}
+h1{
+    color: blue;
+}
+h3{
+    color: blue;
+}
