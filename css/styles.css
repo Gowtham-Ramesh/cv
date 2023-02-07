@@ -14,3 +14,7 @@ h1{
 h3{
     color: blue;
 }
+
+.circular{
+    border-radius: 100%;
+}
